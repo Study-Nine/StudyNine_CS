@@ -5,6 +5,7 @@
 
 CS 스터디 시작 (2023.09.20 ~ ) | 자세한 내용은 👉🏻 [Wiki](https://github.com/Study-Nine/StudyNine_CS.wiki.git)에서 확인해 주세요.
 
+
 > 면접대비 CS와 관련된 지식을 정리한 레포입니다.
 
 ## 기술 면접의 목적
@@ -33,15 +34,16 @@ CS 스터디 시작 (2023.09.20 ~ ) | 자세한 내용은 👉🏻 [Wiki](https:
 * [네트워크](https://github.com/Study-Nine/StudyNine_CS/blob/main/Network/README.md)
 * [데이터베이스](https://github.com/Study-Nine/StudyNine_CS/blob/main/Database/README.md)
 * [코틀린](https://github.com/Study-Nine/StudyNine_CS/blob/main/Kotlin/README.md)
+
 ## Expected question
 
-
-* [자료구조 & 알고리즘](https://github.com/Study-Nine/StudyNine_CS/blob/main/Algorithm/README.md)
-* [디자인패턴](https://github.com/Study-Nine/StudyNine_CS/blob/main/Desgin/README.md)
-* [운영체제](https://github.com/Study-Nine/StudyNine_CS/blob/main/OS/README.md)
-* [네트워크](https://github.com/Study-Nine/StudyNine_CS/blob/main/Network/README.md)
-* [데이터베이스](https://github.com/Study-Nine/StudyNine_CS/blob/main/Database/README.md)
-* [코틀린](https://github.com/Study-Nine/StudyNine_CS/blob/main/Kotlin/README.md)
+* [자료구조 & 알고리즘](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/algorithm_expected_question.md)
+* [운영체제](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/os_expected_question.md)
+* [네트워크](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/network_expected_question.md)
+* [데이터베이스](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/db_expected_question.md)
+* [자바](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/java_expected_question.md)
+* [스프링](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/spring_expected_question.md)
+* [JPA](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/jpa_expected_question.md)
 
 ## 👨🏻‍💻👩🏻‍💻 멤버 소개
 
