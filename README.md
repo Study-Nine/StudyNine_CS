@@ -3,7 +3,8 @@
 [![Since](https://img.shields.io/badge/since-2023.09.20-333333.svg?style=flat-square)](https://github.com/devSquad-study/2023-CS-Study)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/devSquad-study/2023-CS-Study/blob/main/LICENSE.md/)
 
-CS 스터디 시작 (2023.09.20 ~ ) | 자세한 내용은 👉🏻 [Wiki](https://github.com/devSquad-study/2023-CS-Study/wiki)에서 확인해 주세요.
+CS 스터디 시작 (2023.09.20 ~ ) | 자세한 내용은 👉🏻 [Wiki](https://github.com/Study-Nine/StudyNine_CS.wiki.git)에서 확인해 주세요.
+
 
 > 면접대비 CS와 관련된 지식을 정리한 레포입니다.
 
@@ -27,13 +28,12 @@ CS 스터디 시작 (2023.09.20 ~ ) | 자세한 내용은 👉🏻 [Wiki](https:
 
 ## Contents
 
-* [자료구조 & 알고리즘](https://github.com/devSquad-study/2023-CS-Study/blob/main/Algorithm/README.md)
-* [운영체제](https://github.com/devSquad-study/2023-CS-Study/blob/main/OS/README.md)
-* [네트워크](https://github.com/devSquad-study/2023-CS-Study/blob/main/Network/README.md)
-* [데이터베이스](https://github.com/devSquad-study/2023-CS-Study/blob/main/DB/README.md)
-* [자바](https://github.com/devSquad-study/2023-CS-Study/blob/main/java/README.md)
-* [스프링](https://github.com/devSquad-study/2023-CS-Study/blob/main/Spring/README.md)
-* [JPA](https://github.com/devSquad-study/2023-CS-Study/blob/main/JPA/README.md)
+* [자료구조 & 알고리즘](https://github.com/Study-Nine/StudyNine_CS/blob/main/Algorithm/README.md)
+* [디자인패턴](https://github.com/Study-Nine/StudyNine_CS/blob/main/Desgin/README.md)
+* [운영체제](https://github.com/Study-Nine/StudyNine_CS/blob/main/OS/README.md)
+* [네트워크](https://github.com/Study-Nine/StudyNine_CS/blob/main/Network/README.md)
+* [데이터베이스](https://github.com/Study-Nine/StudyNine_CS/blob/main/Database/README.md)
+* [코틀린](https://github.com/Study-Nine/StudyNine_CS/blob/main/Kotlin/README.md)
 
 ## Expected question
 
